@@ -1,2 +1,2 @@
-# Algoritma-ve-Programlamaya-Giri-
+# Algoritma-ve-Programlamaya-Giriş-
 Algoritma ve Programlamaya Giriş Ödevi
